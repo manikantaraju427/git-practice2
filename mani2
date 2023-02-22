@@ -1,4 +1,11 @@
-this is my test file , altering content 
-to the devops manikanta raju
-dibbidi
-sunny 
+this is for testing
+
+for push file or folder
+    git init
+    git add .
+    git commit -m "first commit"
+    git remote add origin https://github.com/manikantaraju427/testfile2.git
+    git push
+
+
+    git push --set-upstream origin master
